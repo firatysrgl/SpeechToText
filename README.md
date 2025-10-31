@@ -170,11 +170,11 @@ Proje, \*\*System.Speech.Recognition\*\* kütüphanesini kullanarak Windows işl
 
 
 
-🐙 GitHub: github.com/firatysrgl
+🐙 GitHub: https://github.com/firatysrgl
 
 
 
-💼 LinkedIn: linkedin.com/in/fırat-yunus-yaşaroğlu
+💼 LinkedIn:  https://www.linkedin.com/in/firat-yunus-yasaroglu/
 
 
 
