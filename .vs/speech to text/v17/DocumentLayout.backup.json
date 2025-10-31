@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09476DD-E217-43F0-A764-8D09EC3B9741}|speech to text\\speech to text.csproj|C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09476DD-E217-43F0-A764-8D09EC3B9741}|speech to text\\speech to text.csproj|solutionrelative:speech to text\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09476DD-E217-43F0-A764-8D09EC3B9741}|speech to text\\speech to text.csproj|C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09476DD-E217-43F0-A764-8D09EC3B9741}|speech to text\\speech to text.csproj|solutionrelative:speech to text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09476DD-E217-43F0-A764-8D09EC3B9741}|speech to text\\speech to text.csproj|c:\\users\\firat yunus\\desktop\\c_sharp projeler\\speech to text\\speech to text\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A09476DD-E217-43F0-A764-8D09EC3B9741}|speech to text\\speech to text.csproj|solutionrelative:speech to text\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09476DD-E217-43F0-A764-8D09EC3B9741}|speech to text\\speech to text.csproj|c:\\users\\firat yunus\\desktop\\c_sharp projeler\\speech to text\\speech to text\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09476DD-E217-43F0-A764-8D09EC3B9741}|speech to text\\speech to text.csproj|solutionrelative:speech to text\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "speech to text\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\Form1.Designer.cs",
+              "RelativeToolTip": "speech to text\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:17:49.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\Form1.cs",
+              "RelativeDocumentMoniker": "speech to text\\Form1.cs",
+              "ToolTip": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\Form1.cs [Design]",
+              "RelativeToolTip": "speech to text\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:16:15.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\Program.cs",
+              "RelativeDocumentMoniker": "speech to text\\Program.cs",
+              "ToolTip": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\Program.cs",
+              "RelativeToolTip": "speech to text\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:07:14.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\Form1.cs",
+              "RelativeDocumentMoniker": "speech to text\\Form1.cs",
+              "ToolTip": "C:\\Users\\FIRAT YUNUS\\Desktop\\C_Sharp Projeler\\speech to text\\speech to text\\Form1.cs",
+              "RelativeToolTip": "speech to text\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:50:08.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

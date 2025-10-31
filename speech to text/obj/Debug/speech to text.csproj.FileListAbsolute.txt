@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\speech to text\speech to text\bin\Debug\speech to text.exe.config
+C:\Users\User\source\repos\speech to text\speech to text\bin\Debug\speech to text.exe
+C:\Users\User\source\repos\speech to text\speech to text\bin\Debug\speech to text.pdb
+C:\Users\User\source\repos\speech to text\speech to text\obj\Debug\speech to text.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\speech to text\speech to text\obj\Debug\speech_to_text.Form1.resources
+C:\Users\User\source\repos\speech to text\speech to text\obj\Debug\speech_to_text.Properties.Resources.resources
+C:\Users\User\source\repos\speech to text\speech to text\obj\Debug\speech to text.csproj.GenerateResource.cache
+C:\Users\User\source\repos\speech to text\speech to text\obj\Debug\speech to text.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\speech to text\speech to text\obj\Debug\speech to text.exe
+C:\Users\User\source\repos\speech to text\speech to text\obj\Debug\speech to text.pdb
+C:\Users\User\source\repos\speech to text\speech to text\obj\Debug\speech to text.exe.config
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\bin\Debug\speech to text.exe.config
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\bin\Debug\speech to text.exe
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\bin\Debug\speech to text.pdb
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\obj\Debug\speech to text.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\obj\Debug\speech to text.exe.config
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\obj\Debug\speech_to_text.Form1.resources
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\obj\Debug\speech_to_text.Properties.Resources.resources
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\obj\Debug\speech to text.csproj.GenerateResource.cache
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\obj\Debug\speech to text.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\obj\Debug\speech to text.exe
+C:\Users\FIRAT YUNUS\Desktop\speech to text\speech to text\speech to text\obj\Debug\speech to text.pdb
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\obj\Debug\speech to text.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\obj\Debug\speech to text.exe.config
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\obj\Debug\speech_to_text.Form1.resources
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\obj\Debug\speech_to_text.Properties.Resources.resources
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\obj\Debug\speech to text.csproj.GenerateResource.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\obj\Debug\speech to text.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\obj\Debug\speech to text.exe
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\obj\Debug\speech to text.pdb
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\bin\Debug\speech to text.exe.config
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\bin\Debug\speech to text.exe
+C:\Users\FIRAT YUNUS\Desktop\C_Sharp Projeler\speech to text\speech to text\bin\Debug\speech to text.pdb
